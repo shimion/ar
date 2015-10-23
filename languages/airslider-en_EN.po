@@ -1,0 +1,1207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Air Slider Lite\n"
+"POT-Creation-Date: 2015-10-12 16:27+0530\n"
+"PO-Revision-Date: 2015-10-12 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: solwininfotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n;_ex;_nx;esc_attr;"
+"esc_attr_e;_n_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/"
+"plugins/air-slider\n"
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:158
+msgid "Select slideshow to insert into post"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:161
+msgid "Add Air slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:197
+msgid "Insert Air Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:199
+msgid "Choose slideshow"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:204
+msgid "Insert slideshow"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/airslider.php:206
+msgid "No sliders found"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:77
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:117
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:193
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:263
+msgid "Show/Hide Element"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:244
+msgid "Add Text"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:245
+msgid "Add Image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:246
+msgid "Add Video"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:249
+msgid "Element Timing"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:250
+msgid "Live Preview"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:251
+msgid "Delete Element"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:252
+msgid "Duplicate Element"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:253
+msgid "Delete All Element"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:259
+msgid "All Elements Timing"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:264
+msgid "Element List"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:265
+msgid "Delay Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:265
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:266
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:267
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:419
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:428
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:477
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:486
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:706
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:715
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:764
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:773
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1151
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1160
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1209
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1218
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:279
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:292
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:305
+msgid "ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:266
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:475
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:762
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1207
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:286
+msgid "Ease In"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:267
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:484
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:771
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1216
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:299
+msgid "Ease Out"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:268
+msgid "Z-index"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:281
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:322
+msgid "No element found."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:343
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:612
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:897
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:76
+msgid "Slide Down"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:344
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:613
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:898
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:75
+msgid "Slide Up"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:345
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:614
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:899
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:73
+msgid "Slide Left"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:346
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:615
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:900
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:74
+msgid "Slide Right"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:347
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:616
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:901
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:70
+msgid "Fade"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:348
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:617
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:902
+msgid "Fade Down"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:349
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:618
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:903
+msgid "Fade Up"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:350
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:619
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:904
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:71
+msgid "Fade Left"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:351
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:620
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:905
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:72
+msgid "Fade Right"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:352
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:621
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:906
+msgid "Fade Small Down"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:353
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:622
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:907
+msgid "Fade Small Up"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:354
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:623
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:908
+msgid "Fade Small Left"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:355
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:624
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:909
+msgid "Fade Small Right"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:362
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:631
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:916
+msgid "General Parameter"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:365
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:634
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:919
+msgid "Animation Parameter"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:368
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:637
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:922
+msgid "Advanced Parameter"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:375
+msgid "Text"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:377
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:321
+msgid "Text element"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:380
+msgid "Write the text or the HTML."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:384
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:671
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1116
+msgid "Left"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:386
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:395
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:673
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:682
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:978
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:981
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1027
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1030
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1104
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1107
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1118
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1127
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:144
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:153
+msgid "px"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:389
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:676
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1121
+msgid "Left distance in px from the start width."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:393
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:680
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1125
+msgid "Top"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:398
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:685
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1130
+msgid "Top distance in px from the start height."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:402
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:689
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1134
+msgid "Z - index"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:407
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:694
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1139
+msgid ""
+"An element with an high z-index will cover an element with a lower z-index "
+"if they overlap."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:417
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:704
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1149
+msgid "Delay"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:422
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:709
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1154
+msgid "How long will the element wait before the entrance. Default:0ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:426
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:713
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1158
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:273
+msgid "Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:431
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:718
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1163
+msgid ""
+"How long will the element be displayed during the slide execution. Write "
+"\"all\" to set the entire time. Default:all"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:435
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:722
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1167
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:235
+msgid "In Animation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:450
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:737
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1182
+msgid "The in animation of the element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:454
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:741
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1186
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:254
+msgid "Out Animation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:468
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:755
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1200
+msgid "Disable synchronization with slide out animation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:471
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:758
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1203
+msgid ""
+"The out animation of the element.<br /><br />Disable synchronization with "
+"slide out animation: if not checked, the slide out animation won't start "
+"until all the elements that have this option unchecked are animated out."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:480
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:767
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1212
+msgid "How long will the in animation take. Default:300ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:489
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:776
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1221
+msgid "How long will the out animation take. Default:300ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:499
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:786
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1231
+msgid "Attribute ID"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:504
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:791
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1236
+msgid "Add ID attribute to element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:508
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:795
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1240
+msgid "Attribute Classes"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:513
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:800
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1245
+msgid "Add Class attribute to element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:517
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:804
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1249
+msgid "Attribute Title"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:522
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:809
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1254
+msgid "Add Title attribute to element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:526
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:813
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1258
+msgid "Attribute Rel"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:531
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:818
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1263
+msgid "Add Rel attribute to element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:535
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:822
+msgid "Link"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:539
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:826
+msgid "Open link in a new tab"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:542
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:829
+msgid ""
+"Open the link (e.g.: http://www.google.com) on click. Leave it empty if you "
+"don't want it."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:546
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:833
+msgid "Link ID"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:551
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:838
+msgid "Add ID attribute to element's link."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:555
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:842
+msgid "Link Classes"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:560
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:847
+msgid "Add Class attribute to element's link ."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:564
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:851
+msgid "Link Title"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:569
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:856
+msgid "Add Title attribute to element's link."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:573
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:860
+msgid "Link Rel"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:578
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:865
+msgid "Add Rel attribute to element's link."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:582
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:869
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1267
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:312
+msgid "Custom CSS"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:587
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:874
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1272
+msgid "Style the element."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:644
+msgid "Modify Image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:646
+msgid "Open Gallery"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:649
+msgid "Change the image source or the alt text."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:653
+msgid "Image Alt"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:658
+msgid "Add image alt text."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:662
+msgid "Scale Proportional"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:667
+msgid ""
+"An element with Scale Proportional will scalling width and height with "
+"respect to slider width and height."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:929
+msgid "Choose Video Type "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:931
+msgid "Youtube"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:932
+msgid "Vimeo"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:933
+msgid "Html5"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:936
+msgid "Choose video type "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:953
+msgid "Enter Youtube ID or URL "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:956
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1004
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1081
+msgid "Search"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:959
+msgid "example: E5ln4uR4TwQ "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:963
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1012
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1089
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:12
+msgid "Full Width"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:978
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1027
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1104
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:142
+msgid "Width"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:981
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1030
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1107
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:151
+msgid "Height"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:984
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1033
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1110
+msgid ""
+"Checked full width checkbox for get full width video which will neglate "
+"width and height which you have enter. If full width is not checked then "
+"video will take width and height from textbox."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:988
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1037
+msgid "Set Preview image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:990
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1039
+msgid "Set Preview"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:991
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1040
+msgid "Remove Preview"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:994
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1043
+msgid ""
+"Set the preivew image for video and remove preview image on select remove "
+"preview button."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1001
+msgid "Enter Vimeo ID or URL "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1007
+msgid "example: 6370469 "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1050
+msgid "Enter Poster Image Url"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1055
+msgid "Example: http://video-js.zencoder.com/oceans-clip.png"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1059
+msgid "Enter MP4 Url"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1064
+msgid "Example: http://video-js.zencoder.com/oceans-clip.mp4"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1068
+msgid "Enter WEBM Url"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1073
+msgid "Example: http://video-js.zencoder.com/oceans-clip.webm"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1077
+msgid "Enter OGV Url"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/elements.php:1084
+msgid "Example: http://video-js.zencoder.com/oceans-clip.ogv"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:13
+msgid "Fixed"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:16
+msgid "Yes"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:17
+msgid "No"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:34
+msgid "Bottom Center"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:35
+msgid "Bottom Left"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:36
+msgid "Bottom Right"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:49
+msgid "Slider Info"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:52
+msgid "General"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:55
+msgid "Loader"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:58
+msgid "Controls"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:61
+msgid "Navigation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:67
+msgid "Slider Setting Options"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:73
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:101
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:247
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:301
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:391
+msgid "Reset Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:76
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:78
+msgid "Slider Name"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:82
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:19
+msgid "Alias"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:86
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:90
+msgid "PHP Function"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:104
+msgid "Layout"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:119
+msgid "Modify the layout type of the slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:123
+msgid "Responsive"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:138
+msgid "The slider will be adapted to the screen size."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:147
+msgid "The content initial width of the slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:156
+msgid "The content initial height of the slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:160
+msgid "Automatic Slide"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:175
+msgid "The slides loop is automatic."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:179
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:101
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:171
+msgid "Background Color"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:181
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:104
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:175
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:179
+msgid "Transparent"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:186
+msgid "The background of slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:190
+msgid "Shadow"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:192
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:92
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:158
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:161
+msgid "None"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:193
+msgid "Select Default Shadow"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:217
+msgid "Choose to display shadow."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:221
+msgid "Pause on Hover"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:236
+msgid "Pause the current slide when hovered."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:250
+msgid "Upload Loader Image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:252
+msgid "Select Default Loader"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:253
+msgid "Upload New Loader"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:290
+msgid "The loader of the slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:304
+msgid "Show Controls"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:319
+msgid "Show the previous and next arrows."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:323
+msgid "Select Controls"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:325
+msgid "Select Default Controls"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:361
+msgid "Select Previous and Next control to display on slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:365
+msgid "Enable Swipe and Drag"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:380
+msgid "Enable swipe left, swipe right, drag left, drag right commands."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:394
+msgid "Show Navigation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:409
+msgid "Show the links buttons to change slide."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:413
+msgid "Select Navigation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:415
+msgid "Select Default Navigation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:451
+msgid "Select navigation to display on slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:455
+msgid "Navigation Position"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:470
+msgid "Show navigation position on slider."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slider.php:479
+msgid "Save Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:11
+msgid "Add slider to your sidebar."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:12
+msgid "Air Slider Widget"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:41
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:66
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:67
+msgid "Air Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:84
+msgid "Title:"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:90
+msgid "Select Slider:"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:92
+msgid "select air slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/air_widget.php:101
+msgid "No sliders found."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:18
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:304
+msgid "Slide"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:27
+msgid "Add New Slide"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:83
+msgid "Slide General Options"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:83
+msgid "Duplicate Slide"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:89
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:154
+msgid "Background Image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:93
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:159
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:162
+msgid "Select Image"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:97
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:110
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:119
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:128
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:140
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:149
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:167
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:186
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:195
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:204
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:221
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:230
+msgid "The background of the slide and its properties."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:114
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:190
+msgid "Background Position-x"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:123
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:199
+msgid "Background Position-y"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:132
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:208
+msgid "Background Repeat"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:135
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:212
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:215
+msgid "Repeat"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:136
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:213
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:216
+msgid "No Repeat"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:144
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:225
+msgid "Background Size"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:250
+msgid "The in animation of the slide."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:269
+msgid "The out animation of the slide."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:282
+msgid "The time that the slide will remain on the screen. Default:3000ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:295
+msgid "The time that the slide will take to get in. Default:300ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:308
+msgid "The time that the slide will take to get out. Default:300ms"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:320
+msgid "Apply CSS to the slide."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/slides.php:343
+msgid "Save Slide"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:58
+msgid "JavaScript must be enabled to view this page correctly."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:62
+msgid ""
+"When you'll click \"Save Settings\", you'll be able to add slides and "
+"elements."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:76
+msgid "Buy Pro Extensions"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:77
+msgid "Buy the following extensions (more coming soon)"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:80
+msgid "Redirect on pro extension for get more feature"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:83
+msgid "Buy pro extensions now!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:87
+msgid "Get Help"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:90
+msgid "Read the documentation"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:93
+msgid "Have any queries?"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:98
+msgid "Support the plugin"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:145
+msgid "Editing Slider: "
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:148
+msgid "Back to List"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:211
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:40
+msgid "Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:217
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:41
+msgid "Edit Slides"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:305
+msgid "Slider name can not be empty."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:306
+msgid "Slider has been generated successfully."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:307
+msgid "Slider has been saved successfully."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:308
+msgid "Something went wrong during save slider!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:309
+msgid "Some other slider with alias"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:310
+msgid "already exists."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:311
+msgid "Slider has been deleted successfully."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:312
+msgid "Something went wrong during delete slider!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:313
+msgid "Slide has been saved successfully."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:314
+msgid "Something went wrong during save slide!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:315
+msgid "Slide has been deleted successfully."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:316
+msgid "Something went wrong during delete slide!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:317
+msgid "Something went wrong during update slides position!"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:318
+msgid "The slide will be deleted. Are you sure?"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:319
+msgid "You can not delete this. You must have at least one slide."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:320
+msgid "The slider will be deleted. Are you sure?"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:323
+msgid "Stop Preview"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:324
+msgid "This feature is available for pro version only."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:325
+msgid "Youtube Video"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/admin.php:326
+msgid "Html5 Video"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/shortcode.php:38
+msgid "You have to insert a valid alias in the shortcode"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/shortcode.php:70
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/shortcode.php:73
+msgid "The slider has not been found"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:12
+msgid "Sliders List"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:17
+msgid "Sr. No."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:18
+msgid "Name"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:21
+msgid "Actions"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:27
+msgid "No Sliders found."
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:42
+msgid "Export Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:43
+msgid "Delete Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:44
+msgid "Duplicate Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:55
+msgid "Create New Slider"
+msgstr ""
+
+#: /opt/lampp/htdocs/seema/work/wp-plugins/wp-content/plugins/air-slider/includes/home.php:60
+msgid "Import Slider"
+msgstr ""
